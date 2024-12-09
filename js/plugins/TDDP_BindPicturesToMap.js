@@ -135,6 +135,9 @@ Imported.TDDP_BindPicturesToMap = "1.0.7";
         this.createWeather();
         this.createPicturesLayer('top', this);
         this.createDestination();
+
+        //Tambahan
+        this.createLightmask();
     };
 
     // Modified
